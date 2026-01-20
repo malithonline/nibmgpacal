@@ -33,7 +33,7 @@ A user-friendly web application that allows NIBM students to check their exam re
 
 ## 🌐 Live Demo
 
-Visit the live application: [https://nibeam.me](https://nibeam.me/)
+Visit the live application: [https://malith.online/tools/nibeam/](https://malith.online/tools/nibeam/)
 
 ## 🤖 Telegram Bot
 
@@ -45,7 +45,7 @@ This repository contains only the frontend source code of the application. The b
 
 ## 📝 Usage
 
-1. Visit [https://nibeam.me](https://nibeam.me)
+1. Visit [https://malith.online/tools/nibeam/](https://malith.online/tools/nibeam/)
 2. Enter your NIBM student index number
 3. Click "Check" to view your results instantly! 🎉
 4. Your GPA will be automatically calculated based on the results
